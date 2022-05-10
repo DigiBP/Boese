@@ -53,6 +53,17 @@ We explicitly take the student admission process without dispensation, since it 
 
 KFH will get the entire standardized high-level admission process that will be valid for all departments. In addition, the admission business logic for either the Law School or Business School will be defined. A prototype of the digitalized process will be created in Camunda to support KFH in the implementation of a digital workflow in the school administration software.
 
+# Application Submission
+
+## Application Form
+
+![image](https://user-images.githubusercontent.com/28218908/166430517-f6b58b07-c180-45ae-a0f1-91a27411e781.png)
+![image](https://user-images.githubusercontent.com/28218908/166430702-00448660-2378-4ea0-980a-5d931cd38664.png)
+
+
+## Application Form Responses
+![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
+
 # DigiBP Camunda Template
 
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
