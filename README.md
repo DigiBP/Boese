@@ -86,8 +86,7 @@ Link to Video
 
 Link to Presentation Slides
 
-Link to Github Repository
-<https://github.com/DigiBP/Boese>
+Link to [Github Repository](https://github.com/DigiBP/Boese)
 
 Link to Application Form
 https://docs.google.com/forms/d/1Pu0OEYmcLoRq8y_Kv-V_W75egXivgVsw934t60xnTWw/prefill
