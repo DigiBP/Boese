@@ -43,6 +43,16 @@ The new school administration software is currently customized by the supplier f
 
 As opposed to the as-is process we modelled the to-be process without any real-world loops and inquiries, just the activities which are relevant for the student admission and especially tasks which have potential for automation. Since dispensation and sur dossier admission are important parts of the admission process for KFH, we modelled the process twice. Both parts are manual and thus not automatable. Still, we included them in one of our processes to show we considered them as well.
 
+![Zulassungsprozess_mit Dispensation_v0 3](https://user-images.githubusercontent.com/101626421/166431596-073473e0-69f1-43c0-8fbf-1c7cb78560a6.png)
+
+We explicitly take the student admission process without dispensation, since it has no potential for digitalization.
+
+![Zulassungsprozess_ohne Dispensation_v0 2](https://user-images.githubusercontent.com/101626421/166432004-4bdbd97d-067c-4012-808e-62994230b589.png)
+
+## Deliverables and benefits
+
+KFH will get the entire standardized high-level admission process that will be valid for all departments. In addition, the admission business logic for either the Law School or Business School will be defined. A prototype of the digitalized process will be created in Camunda to support KFH in the implementation of a digital workflow in the school administration software.
+
 # DigiBP Camunda Template
 
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
