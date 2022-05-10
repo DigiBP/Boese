@@ -95,9 +95,10 @@ https://docs.google.com/forms/d/1Pu0OEYmcLoRq8y_Kv-V_W75egXivgVsw934t60xnTWw/pre
 Link to Application Form Responses
 https://docs.google.com/spreadsheets/d/1ay9QjBoXIt0xETxmyPe8PUPAkzq_FAgbj9-pnePwSQ4/edit?resourcekey#gid=674478772
 
-Link to available Study Programs
+Link to Study Program Bachelor Applied Psychology
+https://www.kalaidos-fh.ch/de-CH/Studiengaenge/BSc-Bachelor-Angewandte-Psychologie
 
-Link to Study Agreement?
+Link to Admisssion/Exam Regulations (Blocker)
 
 ## Camunda Engine
 Link to Camunda Engine
