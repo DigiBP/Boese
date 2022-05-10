@@ -60,9 +60,52 @@ KFH will get the entire standardized high-level admission process that will be v
 ![image](https://user-images.githubusercontent.com/28218908/166430517-f6b58b07-c180-45ae-a0f1-91a27411e781.png)
 ![image](https://user-images.githubusercontent.com/28218908/166430702-00448660-2378-4ea0-980a-5d931cd38664.png)
 
-
 ## Application Form Responses
 ![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
+
+
+# Evaluation Phase
+Three decision tables were applied to implement the business logic. Through this automation, the study program coordinators in KFH are supported in the student admission process.
+
+- add screenshot Decision Diagram
+
+- add screenshot Decision Table 
+
+# Conclusion
+
+## Conclusion
+
+
+## Lesson Learned
+
+
+# Artefacts, Applications & Accesses
+
+## Artefacts
+Link to Video
+
+Link to Presentation Slides
+
+Link to Github Repository
+
+Link to available Study Programs
+
+Link to Application Form
+
+Link to Application Form Responses
+
+Link to Study Agreement?
+
+## Camunda Engine
+Link to Camunda Engine
+
+### Camunda user
+
+## Make (Integromat)
+Link to Make
+
+### Make overview
+
 
 # DigiBP Camunda Template
 
