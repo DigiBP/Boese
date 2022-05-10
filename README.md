@@ -83,7 +83,7 @@ Three decision tables were applied to implement the business logic. Through this
 * With all the data received in the google forms application, we have all information we need for the two-step admission. Therefore, we might not need 3 DMNs and the process might be leaner.
 
 ## Lesson Learned
-
+A standardized process is only possible, when there are not many exceptions. For the case of KFH, however, it is not possible, as different requirements should be met for different study progams.
 
 # Artefacts, Applications & Accesses
 
