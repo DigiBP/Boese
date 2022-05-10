@@ -1,4 +1,11 @@
-# DigiBP Camunda Template
+# Boese
+
+The focus of this project is to digitalize parts of the admission process of the Kalaidos FH, the business logic either from the Law School or Business School.
+
+- David Mäder
+- Patrick Consonni
+- Ramona Boeh
+- Zoe Mitter
 
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
