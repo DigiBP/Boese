@@ -24,13 +24,24 @@ The admission process is digitalized as a prototype since the timelines between 
 ## Kalaidos FH
 
 The Kalaidos FH (KFH) is the only accredited university of applied sciences which is not financially supported by the government. Its story goes back to 1997 where it was founded out of the AKAD Akademikergesellschaft für Erwachsenenbildung university. Its unique selling point was to enable working people to obtain higher education or the general qualification for university entrance by providing permeability inside the education system and between it and the working world (AKAD, 2021). Beside other educational institutes KFH is part of the Kalaidos educational group.
-Problem model
+
+## Problem model
 
 Working with 40 year old outdated legacy systems, study program coordinators face a heavy workload due to the growth of the university in the recent years and the slowness of the software processing the data. Therefore, KFH decided to implement a new school administration system. The project group Team Boese's focus is on the student admission process. Based on the process, modelled in EPC-notation (Event-Driven-Process-Chain) by the KFH process management, we modelled the process in BPMN.
 
 <img width="1398" alt="Screenshot 2022-05-03 at 10 43 25" src="https://user-images.githubusercontent.com/101626421/166426121-978a758e-a34c-4204-a25d-13c140b4a9a6.png">
 
 The as-is process contains loops due to students which forget to submit all their documents. Furthermore, there are multiple manual tasks like consulting the applicant and checking a sur dossier application. Several parties are involved in handling this process.
+
+# To Be Process
+
+## School administration software
+
+The new school administration software is currently customized by the supplier for KFH. They implement assistents which guide study program coordinators through certain processes. Since it's a challenge to standardize the student admission process for all departements of the KFH, its implementation hasn't been yet addressed. But the supplier's intention is to build a workflow in the software to support this process. Because they only work on this in autumn 2022, we couldn't work in the real software supporting them. In agreement with the supplier and KFH project leader, we decided to build a mock-up workflow which contains the business logic.
+
+## BPMN 2.0 student admission process
+
+As opposed to the as-is process we modelled the to-be process without any real-world loops and inquiries, just the activities which are relevant for the student admission and especially tasks which have potential for automation. Since dispensation and sur dossier admission are important parts of the admission process for KFH, we modelled the process twice. Both parts are manual and thus not automatable. Still, we included them in one of our processes to show we considered them as well.
 
 # DigiBP Camunda Template
 
