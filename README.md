@@ -7,6 +7,33 @@ The focus of this project is to digitalize parts of the admission process of the
 - Ramona Boeh
 - Zoe Mitter
 
+# Use Case
+
+The project group decides in agreement with the Kalaidos Project Leader and Enterprise Architect, which process part to digitalize according to the existing business logic of KFH and the requirements of FHNW for the project group. The admission process for all departments of KFH will be modelled in a generic way.
+
+The modelling is done on the basis of the following documents:
+
+- Admission rules of KFH
+- Previously modelled admission process for the Kalaidos Law School
+- Admission Process Model in EPC of KFH
+
+The admission process is digitalized as a prototype since the timelines between the deadline of the university project and the Kalaidos project are not aligned. Thus, the university project provides value to KFH by providing the admission process modelled in BPMN 2.0 and a digitalization mock-up ready to be scripted accordingly in the school administration software by the external provider. The project group have implemented the workflow in the software provided by FHNW.
+
+# As Is Process
+
+## Kalaidos FH
+
+The Kalaidos FH (KFH) is the only accredited university of applied sciences which is not financially supported by the government. Its story goes back to 1997 where it was founded out of the AKAD Akademikergesellschaft für Erwachsenenbildung university. Its unique selling point was to enable working people to obtain higher education or the general qualification for university entrance by providing permeability inside the education system and between it and the working world (AKAD, 2021). Beside other educational institutes KFH is part of the Kalaidos educational group.
+Problem model
+
+Working with 40 year old outdated legacy systems, study program coordinators face a heavy workload due to the growth of the university in the recent years and the slowness of the software processing the data. Therefore, KFH decided to implement a new school administration system. The project group Team Boese's focus is on the student admission process. Based on the process, modelled in EPC-notation (Event-Driven-Process-Chain) by the KFH process management, we modelled the process in BPMN.
+
+<img width="1398" alt="Screenshot 2022-05-03 at 10 43 25" src="https://user-images.githubusercontent.com/101626421/166426121-978a758e-a34c-4204-a25d-13c140b4a9a6.png">
+
+The as-is process contains loops due to students which forget to submit all their documents. Furthermore, there are multiple manual tasks like consulting the applicant and checking a sur dossier application. Several parties are involved in handling this process.
+
+# DigiBP Camunda Template
+
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
 
