@@ -31,6 +31,10 @@ Working with 40 year old outdated legacy systems, study program coordinators fac
 
 <img width="1398" alt="Screenshot 2022-05-03 at 10 43 25" src="https://user-images.githubusercontent.com/101626421/166426121-978a758e-a34c-4204-a25d-13c140b4a9a6.png">
 
+## Process Description
+
+An applicant fills out a form on the Kalaidos Website to apply for a study program. On pressing the send button, the application goes directly to M-Files, a document management system. Study program coordinators check the admission manually according to their respective admission criteria. Sometimes applicants forget to upload some necessary documents or based on the received information, study program coordinators need additional documents to continue the admission process. Thus, they contact the applicant and request the necessary information. This might happen before or after checking the study program specific admission criteria which is a task assigned to the dean. Based on this, the dean decides whether it's a Sur Dossier applicant. If yes, he engages in consulting the applicant and specifies required criteria for acquiring the admission. He argues in writing why the applicant should be accepted to the study program and hands the document over to the admission committee which decides on approval and on further requirements to fulfill or not. Either way, the admission committee informs the study program coordinator who informs the applicant about the decision. If it's no Sur Dossier applicant the dean still has to review the application to give the definitive admission. Still, he can assign requirements to an applicant if he thinks it's necessary. The study program coordinator informs the applicant about rejection or approval of the application and potential additional requirements to fulfill. 
+
 The as-is process contains loops due to students which forget to submit all their documents. Furthermore, there are multiple manual tasks like consulting the applicant and checking a sur dossier application. Several parties are involved in handling this process.
 
 # To Be Process
