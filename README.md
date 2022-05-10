@@ -87,12 +87,15 @@ Link to Video
 Link to Presentation Slides
 
 Link to Github Repository
-
-Link to available Study Programs
+https://github.com/DigiBP/Boese
 
 Link to Application Form
+https://docs.google.com/forms/d/1Pu0OEYmcLoRq8y_Kv-V_W75egXivgVsw934t60xnTWw/prefill
 
 Link to Application Form Responses
+https://docs.google.com/spreadsheets/d/1ay9QjBoXIt0xETxmyPe8PUPAkzq_FAgbj9-pnePwSQ4/edit?resourcekey#gid=674478772
+
+Link to available Study Programs
 
 Link to Study Agreement?
 
