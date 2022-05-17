@@ -90,7 +90,7 @@ While doing this project, we realized that a standardized process is only possib
 ## Artefacts
 Link to Video
 
-Link to Presentation Slides
+Link to [Presentation Slides](https://fhnw365.sharepoint.com/:p:/r/teams/SS22_MSc_BIS_DigiBP_M365-TeamBse/Freigegebene%20Dokumente/Team%20B%C3%B6se/Team%20Boese_KFH_DigiBP%20Presentation.pptx?d=w790887638fe849cd807d1cdf5493e419&csf=1&web=1&e=Y86XaF)
 
 Link to [Github Repository](https://github.com/DigiBP/Boese)
 
