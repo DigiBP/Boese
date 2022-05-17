@@ -77,8 +77,7 @@ Three decision tables were applied to implement the business logic. Through this
 
 # Innovation – Chat Function
 
-- show video/live demo of Jivo Chat
-
+- add screenshot of Jivo Chat
 
 # Conclusion
 
