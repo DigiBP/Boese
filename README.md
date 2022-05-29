@@ -76,8 +76,21 @@ Three decision tables were applied to implement the business logic. Through this
 - add screenshot Decision Table 
 
 # Innovation – Chat Function
+JivoChat is an all-in-one business messenger that teams use to talk to customers. Embedding JivoChat in the website via code snippet is easily done. 
+![KFH_website_JivoChat](https://user-images.githubusercontent.com/101626421/170881030-9d3fa580-9773-43a2-ad76-03eac72cd7ba.png)
+Being available for potential students during office hours in order to answer their questions immediately contributes a lot to customer satisfaction. It's also possible to exchange files via chat. 
+<img width="1285" alt="JivoChat_conversation" src="https://user-images.githubusercontent.com/101626421/170881999-2485b3fb-e165-4646-b9a5-723abe73bb07.png">
+In the contact center where the conversation takes place it's also possible to create a deal. It's marked on the screenshot with a red box: this deal can be assigned to a teammember; in this case it's assigned to Ramona Boeh. The study program coordinator can add a description of the deal, set the value of the deal and add a task with a reminder. This deal is then automatically visible in the JivoChat CRM which is structured as a Kanban board.
+<img width="1283" alt="JivoChat_CRM" src="https://user-images.githubusercontent.com/101626421/170882420-b8ad74cf-406f-447c-a05b-f63188d2de04.png">
+As soon as the customer's needs are fulfilled, the study program coordinator can set the chat on "resolved". We can enable a webhook in JivoChat for connecting it via API to a google spreadsheet which serves as a database where all the conversations are stored. Thus, JivoChat with implemented CRM and database storage can serve as a replacement of the CRM light in DidacNew with which Kalaidos FH currently works.
+The customer can rate the conversation in the chat.
+![Chat_rating](https://user-images.githubusercontent.com/101626421/170883034-76fd639b-0ba7-4fdc-9d04-e85eb01c3f8c.png)
+The ratings are shown on the statistics dashboard. There are also other activities visible like chats activity, proactive chat invitations, agents online time, pipelines, incoming and outgoing calls, callbacks and an aggregated report which can be downloaded either as an excel or csv file.
+![JivoChat_statistics](https://user-images.githubusercontent.com/101626421/170883218-b789f100-5455-4000-882a-acafbb0d7694.png)
+JivoChat allows agents to do phone or video calls as well and to monitor visits to the website where the chat is implemented.
+Furthermore, the user can download the chat conversation for him/herself. 
+![Chatlog_user](https://user-images.githubusercontent.com/101626421/170883245-7e1006e4-fb87-4260-abe7-a75b286f39bd.png)
 
-- add screenshot of Jivo Chat
 
 # Conclusion
 
