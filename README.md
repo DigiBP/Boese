@@ -77,7 +77,7 @@ Three decision tables were applied to implement the business logic. Through this
 
 # Innovation – Chat Function
 JivoChat is an all-in-one business messenger that teams use to talk to customers. Embedding JivoChat in the website via code snippet is easily done. 
-![KFH_website_JivoChat](https://user-images.githubusercontent.com/101626421/170881030-9d3fa580-9773-43a2-ad76-03eac72cd7ba.png)
+<img width="1285" alt="KFH_website_JivoChat" src="https://user-images.githubusercontent.com/101626421/170881030-9d3fa580-9773-43a2-ad76-03eac72cd7ba.png">
 Being available for potential students during office hours in order to answer their questions immediately contributes a lot to customer satisfaction. It's also possible to exchange files via chat. 
 <img width="1285" alt="JivoChat_conversation" src="https://user-images.githubusercontent.com/101626421/170881999-2485b3fb-e165-4646-b9a5-723abe73bb07.png">
 In the contact center where the conversation takes place it's also possible to create a deal. It's marked on the screenshot with a red box: this deal can be assigned to a teammember; in this case it's assigned to Ramona Boeh. The study program coordinator can add a description of the deal, set the value of the deal and add a task with a reminder. This deal is then automatically visible in the JivoChat CRM which is structured as a Kanban board.
