@@ -82,11 +82,11 @@ JivoChat is an all-in-one business messenger that teams use to talk to customers
 
 Being available for potential students during office hours in order to answer their questions immediately contributes a lot to customer satisfaction. It's also possible to exchange files via chat.
 
-<img width="1285" alt="JivoChat_conversation" src="https://user-images.githubusercontent.com/101626421/170881999-2485b3fb-e165-4646-b9a5-723abe73bb07.png">
+<img width="600" alt="JivoChat_conversation" src="https://user-images.githubusercontent.com/101626421/170881999-2485b3fb-e165-4646-b9a5-723abe73bb07.png">
 
 In the contact center where the conversation takes place it's also possible to create a deal. It's marked on the screenshot with a red box: this deal can be assigned to a teammember; in this case it's assigned to Ramona Boeh. The study program coordinator can add a description of the deal, set the value of the deal and add a task with a reminder. This deal is then automatically visible in the JivoChat CRM which is structured as a Kanban board.
 
-<img width="1283" alt="JivoChat_CRM" src="https://user-images.githubusercontent.com/101626421/170882420-b8ad74cf-406f-447c-a05b-f63188d2de04.png">
+<img width="600" alt="JivoChat_CRM" src="https://user-images.githubusercontent.com/101626421/170882420-b8ad74cf-406f-447c-a05b-f63188d2de04.png">
 As soon as the customer's needs are fulfilled, the study program coordinator can set the chat on "resolved". We can enable a webhook in JivoChat for connecting it via API to a google spreadsheet which serves as a database where all the conversations are stored. Thus, JivoChat with implemented CRM and database storage can serve as a replacement of the CRM light in DidacNew with which Kalaidos FH currently works.
 The customer can rate the conversation in the chat.
 
