@@ -78,7 +78,7 @@ Three decision tables were applied to implement the business logic. Through this
 # Innovation – Chat Function
 JivoChat is an all-in-one business messenger that teams use to talk to customers. Embedding JivoChat in the website via code snippet is easily done.
 
-<img width="1285" height="500" alt="KFH_website_JivoChat" src="https://user-images.githubusercontent.com/101626421/170881030-9d3fa580-9773-43a2-ad76-03eac72cd7ba.png">
+<img width="600" alt="KFH_website_JivoChat" src="https://user-images.githubusercontent.com/101626421/170881030-9d3fa580-9773-43a2-ad76-03eac72cd7ba.png">
 
 Being available for potential students during office hours in order to answer their questions immediately contributes a lot to customer satisfaction. It's also possible to exchange files via chat.
 
