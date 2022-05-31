@@ -111,6 +111,8 @@ Furthermore, the user can download the chat conversation for him/herself.
 ## Lesson Learned
 While doing this project, we realized that a standardized process is only possible, when there are not many exceptions. For the case of KFH, however, it is not possible, as different requirements should be met for different study programs.
 
+- save information to eligibility status to excel sheet/database
+
 # Artefacts, Applications & Accesses
 
 ## Artefacts
