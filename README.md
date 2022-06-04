@@ -98,13 +98,22 @@ The customer can rate the conversation in the chat.
 
 The ratings are shown on the statistics dashboard. There are also other activities visible like chats activity, proactive chat invitations, agents online time, pipelines, incoming and outgoing calls, callbacks and an aggregated report which can be downloaded either as an excel or csv file.
 
-<img width="600" alt="JivoChat_sstatistics" src=https://user-images.githubusercontent.com/101626421/170883218-b789f100-5455-4000-882a-acafbb0d7694.png">
+<img width="600" alt="JivoChat_statistics" src=https://user-images.githubusercontent.com/101626421/170883218-b789f100-5455-4000-882a-acafbb0d7694.png">
 
 JivoChat allows agents to do phone or video calls as well and to monitor visits to the website where the chat is implemented.
 Furthermore, the user can download the chat conversation for him/herself.
 
 ![Chatlog_user](https://user-images.githubusercontent.com/101626421/170883245-7e1006e4-fb87-4260-abe7-a75b286f39bd.png)
 
+The video shows the usecase of a dispensation request.
+https://user-images.githubusercontent.com/101626421/172008908-3610da2d-9070-45f3-9f9e-b7c0a2abb9fe.mp4                                                     
+                                                                                                                                                      
+                                                                                                                                                      
+Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
+            Account data for access:
+            Email: ramona.boeh@students.fhnw.ch
+            Password: Quark278
+                                                                                                                                   
 # Conclusion
 
 ## Conclusion
@@ -132,7 +141,9 @@ Link to [Application Form Responses](https://docs.google.com/spreadsheets/d/1ay9
 
 Link to [Study Program KFH Bachelor Applied Psychology](https://www.kalaidos-fh.ch/de-CH/Studiengaenge/BSc-Bachelor-Angewandte-Psychologie)
 
-Link to Admisssion/Exam Regulations (Blocker)
+Link to Admission/Exam Regulations (Blocker)
+                                                                                                                                                      
+Link to [Mock-up Website] (https://sites.google.com/view/teamboese)
 
 ## Camunda Engine
 Link to [Camunda Engine](https://digibp.herokuapp.com/camunda/app/tasklist/default/#/login)
