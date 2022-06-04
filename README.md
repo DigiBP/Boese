@@ -8,7 +8,11 @@ The focus of this project is to digitalize parts of the admission process of the
 - Zoe Mitter
 
 # Use Case
+## Perspective of study program coordinators
+The Kalaidos FH is growing at an uncontrollable speed. Workload for study program coordinators is heavy. The admission process is work intensive due to the individual consultation for potential students since Kalaidos FH offers a variety of tailored study program solutions. Currently, study program coordinators must transfer data from the application, coming in via a form over the website, manually into their system which is time-consuming and repetitive. The current application form allows students to send it without uploading the necessary documents as certificates of employment or qualification for university entrance. Thus, study program coordinators have incomplete applications pending while asking the applicants for those documents, sometimes waiting for them up to six months. 
+A reduction of this administrative task would leave more time for consulting which is a USP of Kalaidos FH.
 
+## Perspective project "Symphony"
 The project group decides in agreement with the Kalaidos Project Leader and Enterprise Architect, which process part to digitalize according to the existing business logic of KFH and the requirements of FHNW for the project group. The admission process for all departments of KFH will be modelled in a generic way.
 
 The modelling is done on the basis of the following documents:
@@ -33,7 +37,7 @@ Working with 40 year old outdated legacy systems, study program coordinators fac
 
 ## Process Description
 
-An applicant fills out a form on the Kalaidos Website to apply for a study program. On pressing the send button, the application goes directly to M-Files, a document management system. Study program coordinators check the admission manually according to their respective admission criteria. Sometimes applicants forget to upload some necessary documents or based on the received information, study program coordinators need additional documents to continue the admission process. Thus, they contact the applicant and request the necessary information. This might happen before or after checking the study program specific admission criteria which is a task assigned to the dean. Based on this, the dean decides whether it's a Sur Dossier applicant. If yes, he engages in consulting the applicant and specifies required criteria for acquiring the admission. He argues in writing why the applicant should be accepted to the study program and hands the document over to the admission committee which decides on approval and on further requirements to fulfill or not. Either way, the admission committee informs the study program coordinator who informs the applicant about the decision. If it's no Sur Dossier applicant the dean still has to review the application to give the definitive admission. Still, he can assign requirements to an applicant if he thinks it's necessary. The study program coordinator informs the applicant about rejection or approval of the application and potential additional requirements to fulfill. 
+An applicant fills out a form on the Kalaidos Website to apply for a study program. On pressing the send button, the application goes directly to M-Files, a document management system. Study program coordinators check the application manually according to their respective admission criteria. Sometimes applicants forget to upload some necessary documents or based on the received information, study program coordinators need additional documents to continue the admission process. Thus, they contact the applicant and request the necessary information. This might happen before or after checking the study program specific admission criteria which is a task assigned to the dean. Based on this, the dean decides whether it's a Sur Dossier applicant. If yes, he engages in consulting the applicant and specifies required criteria for acquiring admission approval. He argues in writing why the applicant should be accepted to the study program and hands the document over to the admission committee which decides on approval and on further requirements to fulfill or not. Either way, the admission committee informs the study program coordinator who informs the applicant about the decision. If it's no Sur Dossier applicant the dean still has to review the application to give the definitive admission. Still, he can assign requirements to an applicant if he thinks it's necessary. The study program coordinator informs the applicant about rejection or approval of the application and potential additional requirements to fulfill. 
 
 The as-is process contains loops due to students which forget to submit all their documents. Furthermore, there are multiple manual tasks like consulting the applicant and checking a sur dossier application. Several parties are involved in handling this process.
 
@@ -49,7 +53,7 @@ As opposed to the as-is process we modelled the to-be process without any real-w
 
 ![Zulassungsprozess_mit Dispensation_v0 3](https://user-images.githubusercontent.com/101626421/166431596-073473e0-69f1-43c0-8fbf-1c7cb78560a6.png)
 
-We explicitly take the student admission process without dispensation, since it has no potential for digitalization.
+We explicitly take the student admission process without dispensation, since it has no potential for digitalization. In chapter "Innovation - Chat function" it's showed how a chat on the website could be used to handle a dispensation in a fast and efficient way.
 
 ![Zulassungsprozess_ohne Dispensation_v0 2](https://user-images.githubusercontent.com/101626421/166432004-4bdbd97d-067c-4012-808e-62994230b589.png)
 
