@@ -106,8 +106,10 @@ Furthermore, the user can download the chat conversation for him/herself.
 ![Chatlog_user](https://user-images.githubusercontent.com/101626421/170883245-7e1006e4-fb87-4260-abe7-a75b286f39bd.png)
 
 The video shows the usecase of a dispensation request.
+                                                                                                                                                      
 https://user-images.githubusercontent.com/101626421/172022024-9ef533ed-0c00-4025-88ed-6e1a23f2ee75.mov                                                                                                                      
 Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
+                                                                                                                                                      
             Account data for access:
             Email: ramona.boeh@students.fhnw.ch
             Password: Quark278
