@@ -98,7 +98,7 @@ The customer can rate the conversation in the chat.
 
 The ratings are shown on the statistics dashboard. There are also other activities visible like chats activity, proactive chat invitations, agents online time, pipelines, incoming and outgoing calls, callbacks and an aggregated report which can be downloaded either as an excel or csv file.
 
-<img width="600" alt="JivoChat_statistics" src=https://user-images.githubusercontent.com/101626421/170883218-b789f100-5455-4000-882a-acafbb0d7694.png">
+<img width="600" alt="JivoChat_statistics" src="https://user-images.githubusercontent.com/101626421/170883218-b789f100-5455-4000-882a-acafbb0d7694.png">
 
 JivoChat allows agents to do phone or video calls as well and to monitor visits to the website where the chat is implemented.
 Furthermore, the user can download the chat conversation for him/herself.
@@ -108,6 +108,7 @@ Furthermore, the user can download the chat conversation for him/herself.
 The video shows the usecase of a dispensation request.
                                                                                                                                                       
 https://user-images.githubusercontent.com/101626421/172022024-9ef533ed-0c00-4025-88ed-6e1a23f2ee75.mov                                                                                                                      
+
 Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
                                                                                                                                                       
             Account data for access:
