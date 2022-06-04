@@ -141,9 +141,10 @@ Link to [Application Form Responses](https://docs.google.com/spreadsheets/d/1ay9
 
 Link to [Study Program KFH Bachelor Applied Psychology](https://www.kalaidos-fh.ch/de-CH/Studiengaenge/BSc-Bachelor-Angewandte-Psychologie)
 
-Link to Admission/Exam Regulations (Blocker)
+Link to Admission/Exam Regulations [Zulassungsreglement V3.0_KFH.pdf](https://github.com/DigiBP/Boese/files/8838430/Zulassungsreglement.V3.0_KFH.pdf) [Prüfungsreglement_Weiterbildung (ID 1521911).pdf](https://github.com/DigiBP/Boese/files/8838433/Prufungsreglement_Weiterbildung.ID.1521911.pdf)
+
                                                                                                                                                       
-Link to [Mock-up Website] (https://sites.google.com/view/teamboese)
+Link to [Mock-up Website](https://sites.google.com/view/teamboese)
 
 ## Camunda Engine
 Link to [Camunda Engine](https://digibp.herokuapp.com/camunda/app/tasklist/default/#/login)
@@ -152,9 +153,12 @@ Link to [Camunda Engine](https://digibp.herokuapp.com/camunda/app/tasklist/defau
 
 ## Make (Integromat)
 Link to [Make](https://www.make.com/en/login)
+                                                                                                                                                      
+Make Login-in:
+Email: bpma06olten@gmail.com
+Password: Olten2022#Z
 
 ### Make overview
-
 
 # DigiBP Camunda Template
 
