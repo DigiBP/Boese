@@ -116,7 +116,15 @@ Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
                                                                                                                                    
 # Conclusion
 
-## Conclusion
+## Conclusion                                                                                                                                               
+* A process can be made much leaner if the business logic is implemented in a DMN.
+
+* Workflows are very handy for standardised processes. As soon as the business logic becomes too specific and therefore rare, it might be difficult to find the balance between the effort of implementing the workflow and the benefit. In some cases automation isn't an option due to regulations as e.g. with the university law which claims that documents have to be reviewed by a human being.
+                                                                                                                                                      
+* Assignment of specific tasks to each employee ensures responsibility and standardisation of the process.
+
+* Information management is important! 
+                                                                                                                                                      
 * Case of Applied Psychology: 25min performance test and 35min questionnaire must be filled out AFTER the first admission criteria are fulfilled. Therefore, we cannot implement a decision table, because we do not get this data simultaneously with the google forms application. This would make the process different for the Applied Psychology study program than for other study programs
 
 * With all the data received in the google forms application, we have all information we need for the two-step admission. Therefore, we might not need 3 decision tables and the process might be leaner.
@@ -124,7 +132,11 @@ Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
 ## Lesson Learned
 While doing this project, we realized that a standardized process is only possible, when there are not many exceptions. For the case of KFH, however, it is not possible, as different requirements should be met for different study programs.
 
-- save information to eligibility status to excel sheet/database
+Define a name convention master system from where to copy all variables into the other softwares!
+                                                                                                                                                      
+Plan enough time to debug since it is not easy to find the mistake while working with four softwares!
+                                                                                                                                                      
+Debug systematically and implement aids!
 
 # Artefacts, Applications & Accesses
 
