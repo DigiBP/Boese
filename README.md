@@ -1,6 +1,6 @@
 # Boese
 
-The focus of this project is to digitalize parts of the admission process of the Kalaidos FH, the business logic either from the Law School or Business School.
+The focus of this project is to digitalize parts of the admission process of the Kalaidos FH, the business logic comes from the School of Law und School of Psychology, the resulting process will be applicable to the whole school.
 
 - David Mäder
 - Patrick Consonni
