@@ -80,12 +80,13 @@ In Switzerland, there are many qualifications one can obtain. For statistic purp
 Right now, the form on the Kalaidos FH website prompts the potential student to upload all documents in the end after filling out everything else. This form is process based and asks for the respective document to be uploaded while prompting the potential student to fill out questions. For example, when the user must check the checkbox to his/her language level C2, C1, B2, B1, A2 or A1, he/she is also prompted to upload his/her language diploma.
 
 ## Application Form Responses / Database storage
-Based on the information included in the application form the workflow is triggered (see explanation below). In addition, all the data is stored in the database as illustrated in the excel table which stands representative for the database. Through this automation, the study program coordinators in KFH are supported in the student admission process.
+Based on the information included in the application form the workflow is triggered (see explanation below). In addition, all the data is stored in the database as illustrated in the excel table which stands representative for the database. 
+
 ![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
 
 # Evaluation Phase 
 ## Workflow
-Below is the first level admission approval workflow illustrated. Based on the study application form the workflow triggers the manual “SurDossier” procedure for not fulfilled general qualification criteria and the manual assessment check for fulfilled qualification criteria. In the next chapters, a detailed explanation regarding DMN and Assessment is provided.
+Below is the first level admission approval workflow illustrated. Based on the study application form the workflow triggers the manual “SurDossier” procedure for not fulfilled general qualification criteria and the manual assessment check for fulfilled qualification criteria. In the next chapters, a detailed explanation regarding DMN and the assessment is provided.
 ![image](https://user-images.githubusercontent.com/28218908/172043098-a9bc2934-123f-4891-a5fb-5194e508a49f.png)
 
 ## DMN
