@@ -73,11 +73,11 @@ Assessing the language level is crucial for studying. Today, students can submit
 
 ![Language Level](https://user-images.githubusercontent.com/101626421/172023328-dc619f1a-624c-46a0-8308-c0cc1f2f956f.png)
 
-In Switzerland, there are many qualifications one can obtain. For statistic purposes, study program coordinators must type in the respective qualification for university into the current system. With this form, it's directly written to the database.
+In Switzerland, there are many qualifications one can obtain. For statistical purposes, study program coordinators must type in the respective qualification for university into the current system. With this form, it's directly written to the database.
 
 ![Qualification for university](https://user-images.githubusercontent.com/101626421/172023405-35ec97b3-2748-4c31-b946-28184fc554a8.png)
 
-Right now, the form on the Kalaidos FH website prompts the potential student to upload all documents in the end after filling out everything else. This form is process based and asks for the respective document to be uploaded while prompting the potential student to fill out questions. For example, when the user must check the checkbox to his/her language level C2, C1, B2, B1, A2 or A1, he/she is also prompted to upload his/her language diploma.
+Right now, the form on the Kalaidos FH website prompts the potential student to upload all documents in the end after filling out everything else. This form is process-based and asks for the respective document to be uploaded while prompting the potential student to fill out questions. For example, when the user must check the checkbox to his/her language level C2, C1, B2, B1, A2 or A1, he/she is also prompted to upload his/her language diploma.
 
 ## Application Form Responses / Database storage
 Based on the information included in the application form the workflow is triggered (see explanation below). In addition, all the data is stored in the database as illustrated in the excel table which stands representative for the database. 
