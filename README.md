@@ -87,6 +87,7 @@ Based on the information included in the application form the workflow is trigge
 # Evaluation Phase 
 ## Workflow
 Below is the first level admission approval workflow illustrated. Based on the study application form the workflow triggers the manual “SurDossier” procedure for not fulfilled general qualification criteria and the manual assessment check for fulfilled qualification criteria. In the next chapters, a detailed explanation regarding DMN and the assessment is provided.
+
 ![image](https://user-images.githubusercontent.com/28218908/172043098-a9bc2934-123f-4891-a5fb-5194e508a49f.png)
 
 ## DMN
@@ -94,14 +95,17 @@ The DMN’s are the central element of the admission approval workflow part. Bas
 
 ### DMN_1 Programmtyp Prüfen
 Based on the required basic information and pre-defined DMN rule-set the workflow automatically triggers the correct procedure. For example, if the level of german is below C2, processing further in the application procedure won’t be possible. If the required level is met the next DMN rule-set (DMN_2) will be triggered based on the study programme selection.
+
 ![image](https://user-images.githubusercontent.com/28218908/172042932-baa47e2b-67c3-4d5a-9e12-4dceb484a08a.png)
 
 ### DMN_2 Regelzulassung Bachelor prüfen
 According to de selection of the study program in the DMN_1, the respective DMN_2 will be triggered for the first pre-assessment of the general qualification criteria. This example showcases the pre-assessment for the Bachelor “Applied Psychology”. Based on the selected answers by the application the DMN_2 evaluates if general qualifications are sufficient or if the SurDossiert process is required. If all the requirements are met the process via “Studengnagskomission” will be initiated an additional assessment will be performed and for traceability reson documented in specif assessment tables within CampusNut, as explained in the next chapter.
+
 ![image](https://user-images.githubusercontent.com/28218908/172042978-9e6d2014-5a45-47a7-987b-78720eff1dbe.png)
 
 ## Assessment documentation of first level admission approval procedure in CampusNet
 Based on the information and uploaded documents in the registration form, a first pre-assessment is automatically performed via DMN as explained in the previous chapter. In case the general qualification criteria are not fulfilled, the manual procedure so-called “Sur Dossier” will be triggered within the department “Zulassungskommision”. However manual assessment of general qualification criteria is also required after the successful fulfilment of the pre-assessment. This is performed within the department “Studienganskomission” and comprises, for example, authenticity checks of the uploaded documents. This assessment is directly documented within the software CampusNet as part of the first level admission approval steps. The table below illustrates a possible solution for such an assessment table as part of the first level admission approval procedure. The advantage is that, not only reasonable documentation for the next steps are in place, but also storage of all the decisions and additional information during the administration process on the database is ensured. Please note that the table below is just a possible solution for incorporating assessment documentation in CampusNet.
+
 ![image](https://user-images.githubusercontent.com/28218908/172043070-a36aa4a1-e9c8-4fbf-83a2-1f912a315457.png)
 
 # Innovation – Chat Function
