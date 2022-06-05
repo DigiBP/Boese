@@ -2,6 +2,8 @@
 
 The focus of this project is to digitalize parts of the admission process of the Kalaidos FH, the business logic comes from the School of Law und School of Psychology, the resulting process will be applicable to the whole school.
 
+![image](https://user-images.githubusercontent.com/28218908/172045547-7f0fe526-4357-4926-9bb0-6f70a60b57ad.png)
+
 - David Mäder
 - Patrick Consonni
 - Ramona Boeh
