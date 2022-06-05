@@ -174,7 +174,7 @@ Annotation: JivoChat is a 14-day free trial and ends on 12. June 2022.
 
 ## Artefacts
 
-Link to [Presentation Slides](https://fhnw365.sharepoint.com/:p:/r/teams/SS22_MSc_BIS_DigiBP_M365-TeamBse/Freigegebene%20Dokumente/Team%20B%C3%B6se/Team%20Boese_KFH_DigiBP%20Presentation.pptx?d=w790887638fe849cd807d1cdf5493e419&csf=1&web=1&e=Y86XaF)
+Link to [Presentation Slides](https://fhnw365.sharepoint.com/:p:/r/teams/SS22_MSc_BIS_DigiBP_M365-TeamBse/Freigegebene%20Dokumente/Team%20B%C3%B6se/Submission/Team%20Boese_KFH_DigiBP%20Presentation.pptx?d=w790887638fe849cd807d1cdf5493e419&csf=1&web=1&e=sMNgVk)
 
 Link to [Github Repository](https://github.com/DigiBP/Boese)
 
@@ -184,10 +184,11 @@ Link to [Application Form Responses](https://docs.google.com/spreadsheets/d/1ay9
 
 Link to [Study Program KFH Bachelor Applied Psychology](https://www.kalaidos-fh.ch/de-CH/Studiengaenge/BSc-Bachelor-Angewandte-Psychologie)
 
-Link to Admission/Exam Regulations [Zulassungsreglement V3.0_KFH.pdf](https://github.com/DigiBP/Boese/files/8838430/Zulassungsreglement.V3.0_KFH.pdf) [Prüfungsreglement_Weiterbildung (ID 1521911).pdf](https://github.com/DigiBP/Boese/files/8838433/Prufungsreglement_Weiterbildung.ID.1521911.pdf)
+Link to [Admission Regulations](https://github.com/DigiBP/Boese/files/8838433/Prufungsreglement_Weiterbildung.ID.1521911.pdf)
 
+Link to [Exam Regulations](https://github.com/DigiBP/Boese/files/8838430/Zulassungsreglement.V3.0_KFH.pdf) 
                                                                                                                                                       
-Link to [Mock-up Website](https://sites.google.com/view/teamboese)
+Link to [Mock-up Website with JivoChat](https://sites.google.com/view/teamboese)
 
 ## Camunda Engine
 Link to [Camunda Engine](https://digibp.herokuapp.com/camunda/app/tasklist/default/#/login)
