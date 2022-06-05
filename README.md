@@ -86,7 +86,7 @@ Based on the information included in the application form the workflow is trigge
 
 ![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
 
-## Make scenario
+## Make scenarios
 As soon as an application comes in via the website, Make maps the attributes to the respective variables and sends them via post request to the WFMS.
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/28218908/172064183-e5a214cc-b275-425e-a9ae-cc4b1dcc18bb.png)
