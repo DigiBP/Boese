@@ -207,7 +207,8 @@ Make Login:
 Email: bpma06olten@gmail.com
 Password: Olten2022#Z
 
-### Make overview (blocker)
+### Make overview
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/28218908/172064183-e5a214cc-b275-425e-a9ae-cc4b1dcc18bb.png)
 
 # DigiBP Camunda Template
 
