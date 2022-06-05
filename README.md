@@ -82,8 +82,8 @@ Right now, the form on the Kalaidos FH website prompts the potential student to 
 ## Application Form Responses
 ![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
 
-
-# Evaluation Phase (Application Form Responses / Database storage)
+# Evaluation Phase 
+## Application Form Responses / Database storage
 Based on the information included in the application form the workflow is triggered (see explanation below). In addition, all the data is stored in the database as illustrated in the excel table which stands representative for the database. Through this automation, the study program coordinators in KFH are supported in the student admission process.
 
 ## Workflow
