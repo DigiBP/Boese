@@ -184,9 +184,9 @@ Link to [Application Form Responses](https://docs.google.com/spreadsheets/d/1ay9
 
 Link to [Study Program KFH Bachelor Applied Psychology](https://www.kalaidos-fh.ch/de-CH/Studiengaenge/BSc-Bachelor-Angewandte-Psychologie)
 
-Link to [Admission Regulations](https://github.com/DigiBP/Boese/files/8838433/Prufungsreglement_Weiterbildung.ID.1521911.pdf)
+Link to [General Admission Regulations](https://github.com/DigiBP/Boese/files/8838430/Zulassungsreglement.V3.0_KFH.pdf) 
 
-Link to [Exam Regulations](https://github.com/DigiBP/Boese/files/8838430/Zulassungsreglement.V3.0_KFH.pdf) 
+Link to [Exam Regulations for Postgraduates](https://github.com/DigiBP/Boese/files/8838433/Prufungsreglement_Weiterbildung.ID.1521911.pdf)
                                                                                                                                                       
 Link to [Mock-up Website with JivoChat](https://sites.google.com/view/teamboese)
 
