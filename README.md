@@ -86,6 +86,13 @@ Based on the information included in the application form the workflow is trigge
 
 ![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
 
+## Make overview
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/28218908/172064183-e5a214cc-b275-425e-a9ae-cc4b1dcc18bb.png)
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/28218908/172064432-e0ef21b0-86e4-4db7-ac76-75ee8753e3f4.png)
+
+## WFMS
+<img width="1440" alt="MicrosoftTeams-image (2)" src="https://user-images.githubusercontent.com/28218908/172064457-279c8ed2-7d25-41f1-8105-6f9960f5396c.png">
+
 # Evaluation Phase 
 ## Workflow
 Below is the first level admission approval workflow illustrated. Based on the study application form the workflow triggers the manual “SurDossier” procedure for not fulfilled general qualification criteria and the manual assessment check for fulfilled qualification criteria. In the next chapters, a detailed explanation regarding DMN and the assessment is provided.
@@ -206,9 +213,6 @@ Link to [Make](https://www.make.com/en/login)
 Make Login:
 Email: bpma06olten@gmail.com
 Password: Olten2022#Z
-
-### Make overview
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/28218908/172064183-e5a214cc-b275-425e-a9ae-cc4b1dcc18bb.png)
 
 # DigiBP Camunda Template
 
