@@ -31,13 +31,13 @@ The Kalaidos FH (KFH) is the only accredited university of applied sciences whic
 
 ## Problem model
 
-Working with 40 year old outdated legacy systems, study program coordinators face a heavy workload due to the growth of the university in the recent years and the slowness of the software processing the data. Therefore, KFH decided to implement a new school administration system. The project group Team Boese's focus is on the student admission process. Based on the process, modelled in EPC-notation (Event-Driven-Process-Chain) by the KFH process management, we modelled the process in BPMN.
+Working with 40-year-old outdated legacy systems, study program coordinators face a heavy workload due to the growth of the university in the recent years and the slowness of the software processing the data. Therefore, KFH decided to implement a new school administration system. The project group Team Boese's focus is on the student admission process. Based on the process, modelled in EPC-notation (Event-Driven-Process-Chain) by the KFH process management, we modelled the process in BPMN.
 
 <img width="1398" alt="Screenshot 2022-05-03 at 10 43 25" src="https://user-images.githubusercontent.com/101626421/166426121-978a758e-a34c-4204-a25d-13c140b4a9a6.png">
 
 ## Process Description
 
-An applicant fills out a form on the Kalaidos Website to apply for a study program. On pressing the send button, the application goes directly to M-Files, a document management system. Study program coordinators check the application manually according to their respective admission criteria. Sometimes applicants forget to upload some necessary documents or based on the received information, study program coordinators need additional documents to continue the admission process. Thus, they contact the applicant and request the necessary information. This might happen before or after checking the study program specific admission criteria which is a task assigned to the dean. Based on this, the dean decides whether it's a Sur Dossier applicant. If yes, he engages in consulting the applicant and specifies required criteria for acquiring admission approval. He argues in writing why the applicant should be accepted to the study program and hands the document over to the admission committee which decides on approval and on further requirements to fulfil or not. Either way, the admission committee informs the study program coordinator who informs the applicant about the decision. If it's no Sur Dossier applicant the dean still has to review the application to give the definitive admission. Still, he can assign requirements to an applicant if he thinks it's necessary. The study program coordinator informs the applicant about rejection or approval of the application and potential additional requirements to fulfil. 
+An applicant fills out a form on the Kalaidos Website to apply for a study program. On pressing the send button, the application goes directly to M-Files, a document management system. Study program coordinators check the application manually according to their respective admission criteria. Sometimes applicants forget to upload some necessary documents or based on the received information, study program coordinators need additional documents to continue the admission process. Thus, they contact the applicant and request the necessary information. This might happen before or after checking the study program specific admission criteria which is a task assigned to the dean. Based on this, the dean decides whether it's a Sur Dossier applicant. If yes, he engages in consulting the applicant and specifies required criteria for acquiring admission approval. He argues in writing why the applicant should be accepted to the study program and hands the document over to the admission committee which decides on approval and on further requirements to fulfil or not. Either way, the admission committee informs the study program coordinator who informs the applicant about the decision. If it's no Sur Dossier applicant, the dean still has to review the application to give the definitive admission. Still, he can assign requirements to an applicant if he thinks it's necessary. The study program coordinator informs the applicant about rejection or approval of the application and potential additional requirements to fulfil. 
 
 The as-is process contains loops due to students which forget to submit all their documents. Furthermore, there are multiple manual tasks like consulting the applicant and checking a sur dossier application. Several parties are involved in handling this process.
 
@@ -69,7 +69,7 @@ Currently, the study program coordinator must transfer the personal data from th
 
 ![Personal Data](https://user-images.githubusercontent.com/101626421/172023279-a05c992f-f5ab-4af7-bf13-5aa42492b46b.png)
 
-Assessing the language level is crucial for studying. Today, students can submit the application via the Kalaidos website without uploading any documents. But this form doesn't allow to proceed with the application process without proving with a document a potential student's eligibility. The potential student is explicitly advised to submit his/her documents completely. Otherwise the application cannot be processed.
+Assessing the language level is crucial for studying. Today, students can submit the application via the Kalaidos website without uploading any documents. But this form doesn't allow to proceed with the application process without proving with a document a potential student's eligibility. The potential student is explicitly advised to submit his/her documents completely. Otherwise, the application cannot be processed.
 
 ![Language Level](https://user-images.githubusercontent.com/101626421/172023328-dc619f1a-624c-46a0-8308-c0cc1f2f956f.png)
 
@@ -117,7 +117,7 @@ Being available for potential students during office hours in order to answer th
 
 <img width="600" alt="JivoChat_conversation" src="https://user-images.githubusercontent.com/101626421/170881999-2485b3fb-e165-4646-b9a5-723abe73bb07.png">
 
-In the contact center where the conversation takes place it's also possible to create a deal. It's marked on the screenshot with a red box: this deal can be assigned to a teammember; in this case it's assigned to Ramona Boeh. The study program coordinator can add a description of the deal, set the value of the deal and add a task with a reminder. This deal is then automatically visible in the JivoChat CRM which is structured as a Kanban board.
+In the contact center where the conversation takes place it's also possible to create a deal. It's marked on the screenshot with a red box: this deal can be assigned to a team member; in this case, it's assigned to Ramona Boeh. The study program coordinator can add a description of the deal, set the value of the deal and add a task with a reminder. This deal is then automatically visible in the JivoChat CRM which is structured as a Kanban board.
 
 <img width="600" alt="JivoChat_CRM" src="https://user-images.githubusercontent.com/101626421/170882420-b8ad74cf-406f-447c-a05b-f63188d2de04.png">
 As soon as the customer's needs are fulfilled, the study program coordinator can set the chat on "resolved". We can enable a webhook in JivoChat for connecting it via API to a google spreadsheet which serves as a database where all the conversations are stored. Thus, JivoChat with implemented CRM and database storage can serve as a replacement of the CRM light in DidacNew with which Kalaidos FH currently works.
@@ -125,7 +125,7 @@ The customer can rate the conversation in the chat.
 
 ![Chat_rating](https://user-images.githubusercontent.com/101626421/170883034-76fd639b-0ba7-4fdc-9d04-e85eb01c3f8c.png)
 
-The ratings are shown on the statistics dashboard. There are also other activities visible like chats activity, proactive chat invitations, agents online time, pipelines, incoming and outgoing calls, callbacks and an aggregated report which can be downloaded either as an excel or csv file.
+The ratings are shown on the statistics dashboard. There are also other activities visible like chat activity, proactive chat invitations, agents online time, pipelines, incoming and outgoing calls, call backs and an aggregated report which can be downloaded either as an excel or csv file.
 
 <img width="600" alt="JivoChat_statistics" src="https://user-images.githubusercontent.com/101626421/170883218-b789f100-5455-4000-882a-acafbb0d7694.png">
 
@@ -134,11 +134,11 @@ Furthermore, the user can download the chat conversation for him/herself.
 
 ![Chatlog_user](https://user-images.githubusercontent.com/101626421/170883245-7e1006e4-fb87-4260-abe7-a75b286f39bd.png)
 
-The video shows the usecase of a dispensation request.
+The video shows the use case of a dispensation request.
                                                                                                                                                       
 https://user-images.githubusercontent.com/101626421/172022024-9ef533ed-0c00-4025-88ed-6e1a23f2ee75.mov                                                                                                                      
 
-Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
+Annotation: JivoChat is a 14-day free trial and ends on 12. June 2022.
                                                                                                                                                       
             Account data for access:
             Email: ramona.boeh@students.fhnw.ch
@@ -146,27 +146,27 @@ Annotation: JivoChat is a 14 days free trial and ends on 12. June 2022.
                                                                                                                                    
 # Conclusion
 
-## Conclusion                                                                                                                                               
+## Summary                                                                                                                                               
 * A process can be made much leaner if the business logic is implemented in a DMN.
 
-* Workflows are very handy for standardised processes. As soon as the business logic becomes too specific and therefore rare, it might be difficult to find the balance between the effort of implementing the workflow and the benefit. In some cases automation isn't an option due to regulations as e.g. with the university law which claims that documents have to be reviewed by a human being.
+* Workflows are very handy for standardised processes. As soon as the business logic becomes too specific and therefore rare, it might be difficult to find the balance between the effort of implementing the workflow and the benefit. In some cases, automation is not an option due to regulations as e.g. with the university law which states that documents have to be reviewed by a human.
                                                                                                                                                       
 * Assignment of specific tasks to each employee ensures responsibility and standardisation of the process.
 
 * Information management is important! 
                                                                                                                                                       
-* Case of Applied Psychology: 25min performance test and 35min questionnaire must be filled out AFTER the first admission criteria are fulfilled. Therefore, we cannot implement a decision table, because we do not get this data simultaneously with the google forms application. This would make the process different for the Applied Psychology study program than for other study programs
+* Case of Applied Psychology: 25min performance test and 35min questionnaire must be filled out AFTER the first admission criteria are fulfilled. Therefore, we cannot implement a decision table, because we do not get this data simultaneously with the google forms application. This would make the process different for the Applied Psychology study program than for other study programs.
 
 * With all the data received in the google forms application, we have all information we need for the two-step admission. Therefore, we might not need 3 decision tables and the process might be leaner.
 
 ## Lesson Learned
-While doing this project, we realized that a standardized process is only possible, when there are not many exceptions. For the case of KFH, however, it is not possible, as different requirements should be met for different study programs.
+* While doing this project, we realized that a standardized process is only possible, when there are not many exceptions. For the case of KFH, however, it is not possible, as different requirements should be met for different study programs.
 
-Define a name convention master system from where to copy all variables into the other softwares!
+* Define a name convention master system from where to copy all variables into the other softwares!
                                                                                                                                                       
-Plan enough time to debug since it is not easy to find the mistake while working with four softwares!
+* Plan enough time to test and debug since it is not easy to find the mistake while working with four softwares!
                                                                                                                                                       
-Debug systematically and implement aids!
+* Debug systematically and implement aids!
 
 # Artefacts, Applications & Accesses
 
