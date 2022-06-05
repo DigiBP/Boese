@@ -86,11 +86,15 @@ Based on the information included in the application form the workflow is trigge
 
 ![image](https://user-images.githubusercontent.com/28218908/166429287-439eaccd-6a9b-4581-8dbf-7325f6241b0f.png)
 
-## Make overview
+## Make scenario
+As soon as an application comes in via the website, Make maps the attributes to the respective variables and sends them via post request to the WFMS
+
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/28218908/172064183-e5a214cc-b275-425e-a9ae-cc4b1dcc18bb.png)
+
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/28218908/172064432-e0ef21b0-86e4-4db7-ac76-75ee8753e3f4.png)
 
-## WFMS
+## Workflow Management System
+Through the http post request, the variables were sent from Make to the WFMS. The task can be claimed by the assigned employee and the information can be further processed.
 <img width="1440" alt="MicrosoftTeams-image (2)" src="https://user-images.githubusercontent.com/28218908/172064457-279c8ed2-7d25-41f1-8105-6f9960f5396c.png">
 
 # Evaluation Phase 
