@@ -155,7 +155,7 @@ Annotation: JivoChat is a 14-day free trial and ends on 12. June 2022.
 
 * Information management is important! 
                                                                                                                                                       
-* Case of Applied Psychology: 25min performance test and 35min questionnaire must be filled out AFTER the first admission criteria are fulfilled. Therefore, we cannot implement a decision table, because we do not get this data simultaneously with the google forms application. This would make the process different for the Applied Psychology study program than for other study programs.
+* For Applied Psychology: 25min performance test and 35min questionnaire must be filled out AFTER the first admission criteria are fulfilled. Therefore, we cannot implement a decision table, because we do not get this data simultaneously with the google forms application. This would make the process different for the Applied Psychology study program than for other study programs.
 
 * With all the data received in the google forms application, we have all information we need for the two-step admission. Therefore, we might not need 3 decision tables and the process might be leaner.
 
